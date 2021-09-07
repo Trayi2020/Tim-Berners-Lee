@@ -1,0 +1,46 @@
+#t1{
+    background:linear-gradient(#ff7675,#ff7979,#eb4d4b,#d63031);
+    text-align:center;
+}
+img{
+    border-radius:60px;
+    width:175px;
+}
+#t2{
+    text-align:center;
+    margin:25px auto;
+}
+#bt{
+    list-style: none;
+    font-family: fantasy;
+    position:fixed;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    z-index: 10;
+}
+#tb{
+   font-family:fantasy;
+       font-size:20px;
+    color:crimson;
+    float:left;
+   padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom:5px;
+}
+#tb:hover{
+    background-color: #f78fb3;
+}
+#t3{
+    text-align:center;
+}
+#t4{
+    text-align:center;
+}
+#t5{
+    text-align:center;
+}
+#t6{
+    text-align:center;
+}
